@@ -1,0 +1,22 @@
+
+npm install react-router-dom
+
+npm install @mui/material
+npm install @mui/icons-material
+npm install @emotion/react
+npm install @emotion/styled
+
+npm install axios
+npm install universal-cookie
+
+Para las gráficas de el dashboard
+npm install recharts https://www.npmjs.com/package/recharts
+
+npm install jwt-decode --save
+
+npm install react-hook-form --save
+npm install --save moment react-moment
+npm install --save moment-timezone
+
+npm install mui-datatables --save
+npm install @mui/styles
